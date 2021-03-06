@@ -1,0 +1,25 @@
+h2 {
+    padding-left: 20px;
+}
+
+#weatherForm {
+    padding: 20px;
+}
+
+.weatherText {
+    font-family: 'Poppins', 'sans-serif';
+    font-size: 24px;
+}
+
+#weatherSubmit {
+    color: #5f3e3e;
+    background: linear-gradient(35deg, #CCFFFF, #FFCCCC);
+    padding: 5px 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+#weatherSubmit:hover {
+    cursor: pointer;
+}
